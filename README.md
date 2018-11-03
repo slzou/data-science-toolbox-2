@@ -12,7 +12,7 @@ This will ensure that the Binder button above can pull in the correct libraries,
 
 
 ## R Setup
-R dependencies can therefore be installed by running `R --file=install.R` in this repositories root directory.
+R dependencies can be installed by running `R --file=install.R` in this repositories root directory.
 
 How does this work? The [./Rprofile](./Rprofile) file in the project root instructs the R interpretor to look for and install libraries into the project-local folder `./rlibs`. RStudio will follow this convention similarly, and pick up these locally installed libraries.
 
