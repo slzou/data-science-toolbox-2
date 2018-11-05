@@ -4,3 +4,5 @@ Non linear link function/regression : https://stats.stackexchange.com/questions/
 
 
 Beyond Linear Regression : https://www4.stat.ncsu.edu/~reich/st590/Nonlinear.pdf
+
+variable selection: http://www.biostat.jhsph.edu/~iruczins/teaching/jf/ch10.pdf
